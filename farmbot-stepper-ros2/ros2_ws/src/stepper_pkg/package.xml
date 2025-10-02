@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>stepper_pkg</name>
+  <version>0.0.1</version>
+  <description>ROS2 Stepper Motor Control Package</description>
+  <maintainer email="james@example.com">James Caddell</maintainer>
+  <license>MIT</license>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>
